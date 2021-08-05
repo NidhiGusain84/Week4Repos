@@ -1,0 +1,12 @@
+C:\Week4\UpdatedAssessment2(V2)\UpdatedAssessment2(V2)\bin\Debug\netcoreapp3.1\UpdatedAssessment2(V2).exe
+C:\Week4\UpdatedAssessment2(V2)\UpdatedAssessment2(V2)\bin\Debug\netcoreapp3.1\UpdatedAssessment2(V2).deps.json
+C:\Week4\UpdatedAssessment2(V2)\UpdatedAssessment2(V2)\bin\Debug\netcoreapp3.1\UpdatedAssessment2(V2).runtimeconfig.json
+C:\Week4\UpdatedAssessment2(V2)\UpdatedAssessment2(V2)\bin\Debug\netcoreapp3.1\UpdatedAssessment2(V2).runtimeconfig.dev.json
+C:\Week4\UpdatedAssessment2(V2)\UpdatedAssessment2(V2)\bin\Debug\netcoreapp3.1\UpdatedAssessment2(V2).dll
+C:\Week4\UpdatedAssessment2(V2)\UpdatedAssessment2(V2)\bin\Debug\netcoreapp3.1\UpdatedAssessment2(V2).pdb
+C:\Week4\UpdatedAssessment2(V2)\UpdatedAssessment2(V2)\obj\Debug\netcoreapp3.1\UpdatedAssessment2(V2).AssemblyInfoInputs.cache
+C:\Week4\UpdatedAssessment2(V2)\UpdatedAssessment2(V2)\obj\Debug\netcoreapp3.1\UpdatedAssessment2(V2).AssemblyInfo.cs
+C:\Week4\UpdatedAssessment2(V2)\UpdatedAssessment2(V2)\obj\Debug\netcoreapp3.1\UpdatedAssessment2(V2).csproj.CoreCompileInputs.cache
+C:\Week4\UpdatedAssessment2(V2)\UpdatedAssessment2(V2)\obj\Debug\netcoreapp3.1\UpdatedAssessment2(V2).dll
+C:\Week4\UpdatedAssessment2(V2)\UpdatedAssessment2(V2)\obj\Debug\netcoreapp3.1\UpdatedAssessment2(V2).pdb
+C:\Week4\UpdatedAssessment2(V2)\UpdatedAssessment2(V2)\obj\Debug\netcoreapp3.1\UpdatedAssessment2(V2).genruntimeconfig.cache
