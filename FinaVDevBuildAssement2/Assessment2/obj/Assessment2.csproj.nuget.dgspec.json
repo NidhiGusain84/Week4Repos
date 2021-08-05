@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Week4\\Week4Repos\\Updated_Assessment2\\Updated_Assessment2_withoutMethods\\Updated_Assessment2_withoutMethods.csproj": {}
+    "C:\\Assessment2_Nidhi\\assessment2-ngusain\\DevBuildAssement2\\Assessment2\\Assessment2.csproj": {}
   },
   "projects": {
-    "C:\\Week4\\Week4Repos\\Updated_Assessment2\\Updated_Assessment2_withoutMethods\\Updated_Assessment2_withoutMethods.csproj": {
+    "C:\\Assessment2_Nidhi\\assessment2-ngusain\\DevBuildAssement2\\Assessment2\\Assessment2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Week4\\Week4Repos\\Updated_Assessment2\\Updated_Assessment2_withoutMethods\\Updated_Assessment2_withoutMethods.csproj",
-        "projectName": "Updated_Assessment2_withoutMethods",
-        "projectPath": "C:\\Week4\\Week4Repos\\Updated_Assessment2\\Updated_Assessment2_withoutMethods\\Updated_Assessment2_withoutMethods.csproj",
+        "projectUniqueName": "C:\\Assessment2_Nidhi\\assessment2-ngusain\\DevBuildAssement2\\Assessment2\\Assessment2.csproj",
+        "projectName": "Assessment2",
+        "projectPath": "C:\\Assessment2_Nidhi\\assessment2-ngusain\\DevBuildAssement2\\Assessment2\\Assessment2.csproj",
         "packagesPath": "C:\\Users\\ngusain\\.nuget\\packages\\",
-        "outputPath": "C:\\Week4\\Week4Repos\\Updated_Assessment2\\Updated_Assessment2_withoutMethods\\obj\\",
+        "outputPath": "C:\\Assessment2_Nidhi\\assessment2-ngusain\\DevBuildAssement2\\Assessment2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ngusain\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,13 @@
+C:\Assessment2_Nidhi\assessment2-ngusain\DevBuildAssement2\Assessment2\bin\Debug\netcoreapp3.1\Assessment2.exe
+C:\Assessment2_Nidhi\assessment2-ngusain\DevBuildAssement2\Assessment2\bin\Debug\netcoreapp3.1\Assessment2.deps.json
+C:\Assessment2_Nidhi\assessment2-ngusain\DevBuildAssement2\Assessment2\bin\Debug\netcoreapp3.1\Assessment2.runtimeconfig.json
+C:\Assessment2_Nidhi\assessment2-ngusain\DevBuildAssement2\Assessment2\bin\Debug\netcoreapp3.1\Assessment2.runtimeconfig.dev.json
+C:\Assessment2_Nidhi\assessment2-ngusain\DevBuildAssement2\Assessment2\bin\Debug\netcoreapp3.1\Assessment2.dll
+C:\Assessment2_Nidhi\assessment2-ngusain\DevBuildAssement2\Assessment2\bin\Debug\netcoreapp3.1\Assessment2.pdb
+C:\Assessment2_Nidhi\assessment2-ngusain\DevBuildAssement2\Assessment2\obj\Debug\netcoreapp3.1\Assessment2.AssemblyInfoInputs.cache
+C:\Assessment2_Nidhi\assessment2-ngusain\DevBuildAssement2\Assessment2\obj\Debug\netcoreapp3.1\Assessment2.AssemblyInfo.cs
+C:\Assessment2_Nidhi\assessment2-ngusain\DevBuildAssement2\Assessment2\obj\Debug\netcoreapp3.1\Assessment2.csproj.CoreCompileInputs.cache
+C:\Assessment2_Nidhi\assessment2-ngusain\DevBuildAssement2\Assessment2\obj\Debug\netcoreapp3.1\Assessment2.dll
+C:\Assessment2_Nidhi\assessment2-ngusain\DevBuildAssement2\Assessment2\obj\Debug\netcoreapp3.1\Assessment2.pdb
+C:\Assessment2_Nidhi\assessment2-ngusain\DevBuildAssement2\Assessment2\obj\Debug\netcoreapp3.1\Assessment2.genruntimeconfig.cache
+C:\Assessment2_Nidhi\assessment2-ngusain\DevBuildAssement2\Assessment2\obj\Debug\netcoreapp3.1\Assessment2.csprojAssemblyReference.cache
