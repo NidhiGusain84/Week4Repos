@@ -1,0 +1,13 @@
+C:\Week4\PracticeAssessmentWeek4\PracticeAssessmentWeek_4\PracticeAssessment\obj\Debug\netcoreapp3.1\PracticeAssessment.csprojAssemblyReference.cache
+C:\Week4\PracticeAssessmentWeek4\PracticeAssessmentWeek_4\PracticeAssessment\obj\Debug\netcoreapp3.1\PracticeAssessment.AssemblyInfoInputs.cache
+C:\Week4\PracticeAssessmentWeek4\PracticeAssessmentWeek_4\PracticeAssessment\obj\Debug\netcoreapp3.1\PracticeAssessment.AssemblyInfo.cs
+C:\Week4\PracticeAssessmentWeek4\PracticeAssessmentWeek_4\PracticeAssessment\obj\Debug\netcoreapp3.1\PracticeAssessment.csproj.CoreCompileInputs.cache
+C:\Week4\PracticeAssessmentWeek4\PracticeAssessmentWeek_4\PracticeAssessment\bin\Debug\netcoreapp3.1\PracticeAssessment.exe
+C:\Week4\PracticeAssessmentWeek4\PracticeAssessmentWeek_4\PracticeAssessment\bin\Debug\netcoreapp3.1\PracticeAssessment.deps.json
+C:\Week4\PracticeAssessmentWeek4\PracticeAssessmentWeek_4\PracticeAssessment\bin\Debug\netcoreapp3.1\PracticeAssessment.runtimeconfig.json
+C:\Week4\PracticeAssessmentWeek4\PracticeAssessmentWeek_4\PracticeAssessment\bin\Debug\netcoreapp3.1\PracticeAssessment.runtimeconfig.dev.json
+C:\Week4\PracticeAssessmentWeek4\PracticeAssessmentWeek_4\PracticeAssessment\bin\Debug\netcoreapp3.1\PracticeAssessment.dll
+C:\Week4\PracticeAssessmentWeek4\PracticeAssessmentWeek_4\PracticeAssessment\bin\Debug\netcoreapp3.1\PracticeAssessment.pdb
+C:\Week4\PracticeAssessmentWeek4\PracticeAssessmentWeek_4\PracticeAssessment\obj\Debug\netcoreapp3.1\PracticeAssessment.dll
+C:\Week4\PracticeAssessmentWeek4\PracticeAssessmentWeek_4\PracticeAssessment\obj\Debug\netcoreapp3.1\PracticeAssessment.pdb
+C:\Week4\PracticeAssessmentWeek4\PracticeAssessmentWeek_4\PracticeAssessment\obj\Debug\netcoreapp3.1\PracticeAssessment.genruntimeconfig.cache

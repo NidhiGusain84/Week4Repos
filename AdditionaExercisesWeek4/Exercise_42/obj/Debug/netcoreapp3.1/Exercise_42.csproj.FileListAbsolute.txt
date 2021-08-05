@@ -1,0 +1,13 @@
+C:\Week4\AdditionaExercisesWeek4\Exercise_42\bin\Debug\netcoreapp3.1\Exercise_42.exe
+C:\Week4\AdditionaExercisesWeek4\Exercise_42\bin\Debug\netcoreapp3.1\Exercise_42.deps.json
+C:\Week4\AdditionaExercisesWeek4\Exercise_42\bin\Debug\netcoreapp3.1\Exercise_42.runtimeconfig.json
+C:\Week4\AdditionaExercisesWeek4\Exercise_42\bin\Debug\netcoreapp3.1\Exercise_42.runtimeconfig.dev.json
+C:\Week4\AdditionaExercisesWeek4\Exercise_42\bin\Debug\netcoreapp3.1\Exercise_42.dll
+C:\Week4\AdditionaExercisesWeek4\Exercise_42\bin\Debug\netcoreapp3.1\Exercise_42.pdb
+C:\Week4\AdditionaExercisesWeek4\Exercise_42\obj\Debug\netcoreapp3.1\Exercise_42.csprojAssemblyReference.cache
+C:\Week4\AdditionaExercisesWeek4\Exercise_42\obj\Debug\netcoreapp3.1\Exercise_42.AssemblyInfoInputs.cache
+C:\Week4\AdditionaExercisesWeek4\Exercise_42\obj\Debug\netcoreapp3.1\Exercise_42.AssemblyInfo.cs
+C:\Week4\AdditionaExercisesWeek4\Exercise_42\obj\Debug\netcoreapp3.1\Exercise_42.csproj.CoreCompileInputs.cache
+C:\Week4\AdditionaExercisesWeek4\Exercise_42\obj\Debug\netcoreapp3.1\Exercise_42.dll
+C:\Week4\AdditionaExercisesWeek4\Exercise_42\obj\Debug\netcoreapp3.1\Exercise_42.pdb
+C:\Week4\AdditionaExercisesWeek4\Exercise_42\obj\Debug\netcoreapp3.1\Exercise_42.genruntimeconfig.cache

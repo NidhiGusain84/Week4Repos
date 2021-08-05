@@ -1,0 +1,13 @@
+C:\Week4\AdditionaExercisesWeek4\Triangle_Ex46\bin\Debug\netcoreapp3.1\Triangle_Ex46.exe
+C:\Week4\AdditionaExercisesWeek4\Triangle_Ex46\bin\Debug\netcoreapp3.1\Triangle_Ex46.deps.json
+C:\Week4\AdditionaExercisesWeek4\Triangle_Ex46\bin\Debug\netcoreapp3.1\Triangle_Ex46.runtimeconfig.json
+C:\Week4\AdditionaExercisesWeek4\Triangle_Ex46\bin\Debug\netcoreapp3.1\Triangle_Ex46.runtimeconfig.dev.json
+C:\Week4\AdditionaExercisesWeek4\Triangle_Ex46\bin\Debug\netcoreapp3.1\Triangle_Ex46.dll
+C:\Week4\AdditionaExercisesWeek4\Triangle_Ex46\bin\Debug\netcoreapp3.1\Triangle_Ex46.pdb
+C:\Week4\AdditionaExercisesWeek4\Triangle_Ex46\obj\Debug\netcoreapp3.1\Triangle_Ex46.csprojAssemblyReference.cache
+C:\Week4\AdditionaExercisesWeek4\Triangle_Ex46\obj\Debug\netcoreapp3.1\Triangle_Ex46.AssemblyInfoInputs.cache
+C:\Week4\AdditionaExercisesWeek4\Triangle_Ex46\obj\Debug\netcoreapp3.1\Triangle_Ex46.AssemblyInfo.cs
+C:\Week4\AdditionaExercisesWeek4\Triangle_Ex46\obj\Debug\netcoreapp3.1\Triangle_Ex46.csproj.CoreCompileInputs.cache
+C:\Week4\AdditionaExercisesWeek4\Triangle_Ex46\obj\Debug\netcoreapp3.1\Triangle_Ex46.dll
+C:\Week4\AdditionaExercisesWeek4\Triangle_Ex46\obj\Debug\netcoreapp3.1\Triangle_Ex46.pdb
+C:\Week4\AdditionaExercisesWeek4\Triangle_Ex46\obj\Debug\netcoreapp3.1\Triangle_Ex46.genruntimeconfig.cache

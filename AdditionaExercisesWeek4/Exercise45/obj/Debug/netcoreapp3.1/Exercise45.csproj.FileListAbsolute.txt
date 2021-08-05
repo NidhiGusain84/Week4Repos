@@ -1,0 +1,13 @@
+C:\Week4\AdditionaExercisesWeek4\Exercise45\bin\Debug\netcoreapp3.1\Exercise45.exe
+C:\Week4\AdditionaExercisesWeek4\Exercise45\bin\Debug\netcoreapp3.1\Exercise45.deps.json
+C:\Week4\AdditionaExercisesWeek4\Exercise45\bin\Debug\netcoreapp3.1\Exercise45.runtimeconfig.json
+C:\Week4\AdditionaExercisesWeek4\Exercise45\bin\Debug\netcoreapp3.1\Exercise45.runtimeconfig.dev.json
+C:\Week4\AdditionaExercisesWeek4\Exercise45\bin\Debug\netcoreapp3.1\Exercise45.dll
+C:\Week4\AdditionaExercisesWeek4\Exercise45\bin\Debug\netcoreapp3.1\Exercise45.pdb
+C:\Week4\AdditionaExercisesWeek4\Exercise45\obj\Debug\netcoreapp3.1\Exercise45.csprojAssemblyReference.cache
+C:\Week4\AdditionaExercisesWeek4\Exercise45\obj\Debug\netcoreapp3.1\Exercise45.AssemblyInfoInputs.cache
+C:\Week4\AdditionaExercisesWeek4\Exercise45\obj\Debug\netcoreapp3.1\Exercise45.AssemblyInfo.cs
+C:\Week4\AdditionaExercisesWeek4\Exercise45\obj\Debug\netcoreapp3.1\Exercise45.csproj.CoreCompileInputs.cache
+C:\Week4\AdditionaExercisesWeek4\Exercise45\obj\Debug\netcoreapp3.1\Exercise45.dll
+C:\Week4\AdditionaExercisesWeek4\Exercise45\obj\Debug\netcoreapp3.1\Exercise45.pdb
+C:\Week4\AdditionaExercisesWeek4\Exercise45\obj\Debug\netcoreapp3.1\Exercise45.genruntimeconfig.cache
