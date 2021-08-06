@@ -1,0 +1,12 @@
+C:\Week4\Week4Repos\UpdatedAssessment3\UpdatedAssessment3\bin\Debug\netcoreapp3.1\UpdatedAssessment3.exe
+C:\Week4\Week4Repos\UpdatedAssessment3\UpdatedAssessment3\bin\Debug\netcoreapp3.1\UpdatedAssessment3.deps.json
+C:\Week4\Week4Repos\UpdatedAssessment3\UpdatedAssessment3\bin\Debug\netcoreapp3.1\UpdatedAssessment3.runtimeconfig.json
+C:\Week4\Week4Repos\UpdatedAssessment3\UpdatedAssessment3\bin\Debug\netcoreapp3.1\UpdatedAssessment3.runtimeconfig.dev.json
+C:\Week4\Week4Repos\UpdatedAssessment3\UpdatedAssessment3\bin\Debug\netcoreapp3.1\UpdatedAssessment3.dll
+C:\Week4\Week4Repos\UpdatedAssessment3\UpdatedAssessment3\bin\Debug\netcoreapp3.1\UpdatedAssessment3.pdb
+C:\Week4\Week4Repos\UpdatedAssessment3\UpdatedAssessment3\obj\Debug\netcoreapp3.1\UpdatedAssessment3.AssemblyInfoInputs.cache
+C:\Week4\Week4Repos\UpdatedAssessment3\UpdatedAssessment3\obj\Debug\netcoreapp3.1\UpdatedAssessment3.AssemblyInfo.cs
+C:\Week4\Week4Repos\UpdatedAssessment3\UpdatedAssessment3\obj\Debug\netcoreapp3.1\UpdatedAssessment3.csproj.CoreCompileInputs.cache
+C:\Week4\Week4Repos\UpdatedAssessment3\UpdatedAssessment3\obj\Debug\netcoreapp3.1\UpdatedAssessment3.dll
+C:\Week4\Week4Repos\UpdatedAssessment3\UpdatedAssessment3\obj\Debug\netcoreapp3.1\UpdatedAssessment3.pdb
+C:\Week4\Week4Repos\UpdatedAssessment3\UpdatedAssessment3\obj\Debug\netcoreapp3.1\UpdatedAssessment3.genruntimeconfig.cache
