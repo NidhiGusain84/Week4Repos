@@ -8,79 +8,67 @@ namespace ExtendedExercise
     {
         static void Main(string[] args)
         {
-            List<Movie> moviesList = new List<Movie>();
-            Movie m1 = new Movie("Toy Story", "Animated");
-            Movie m2 = new Movie("Boogie Nights", "Drama");
-            Movie m3 = new Movie("Coco", "Animated");
-            Movie m4 = new Movie("Host 1", "Horror");
-            Movie m5 = new Movie("Srar Wars", "Scifi");
-            Movie m6 = new Movie("Citizen Kane", "Drama");
-            Movie m7 = new Movie("Host 2", "Horror");
-            Movie m8 = new Movie("His House", "Drama");
-            Movie m9 = new Movie("Finding Dory", "Animated");
-            Movie m10 = new Movie("12 Angry Men", "Drama");
-            Movie m11 = new Movie("Possessor", "Horror");
-            Movie m12 = new Movie("Up", "Animated");
-            Movie m13 = new Movie("Aliens", "Scifi");
-            Movie m14 = new Movie("Blade Runner", "Scifi");
+            List<Movie> moviesList = new List<Movie>() {
+            new Movie("Toy Story", "Animated"),
+            new Movie("Boogie Nights", "Drama"),
+            new Movie("Coco", "Animated"),
+            new Movie("Host 1", "Horror"),
+            new Movie("Srar Wars", "Scifi"),
+            new Movie("Citizen Kane", "Drama"),
+            new Movie("Host 2", "Horror"),
+            new Movie("His House", "Drama"),
+            new Movie("Finding Dory", "Animated"),
+            new Movie("12 Angry Men", "Drama"),
+            new Movie("Possessor", "Horror"),
+            new Movie("Up", "Animated"),
+            new Movie("Aliens", "Scifi"),
+            new Movie("Blade Runner", "Scifi") };
 
+            moviesList.Add(new Movie("Moana", "Animated"));
 
-            moviesList.Add(m1);
-            moviesList.Add(m2);
-            moviesList.Add(m3);
-            moviesList.Add(m4);
-            moviesList.Add(m5);
-            moviesList.Add(m6);
-            moviesList.Add(m7);
-            moviesList.Add(m8);
-            moviesList.Add(m9);
-            moviesList.Add(m10);
-            moviesList.Add(m11);
-            moviesList.Add(m12);
-            moviesList.Add(m13);
-            moviesList.Add(m14);
+            
 
             Console.WriteLine("Welcome to the Movie List Application!");
             Console.WriteLine($"\n\n There are {moviesList.Count} movies in this list.");
-            Console.WriteLine(m1.ToString());
+           
            
            
 
             string response;
-            int intres;
+            int num;
 
             do
             {
                 Console.Write("What category are you interested in?: ");
                 string userChoice = Console.ReadLine();
-                int.TryParse(userChoice, out intres);
+                int.TryParse(userChoice, out num);
 
-                while (intres != 1 && intres !=2 && intres != 3 && intres != 4)
+                while (num != 1 && num !=2 && num != 3 && num != 4)
                 {
                     Console.WriteLine("\nWrong category.");
                     Console.WriteLine("Enter 1 or 2 or 3 or 4");
                     Console.Write("What category are you interested in?: ");
                     userChoice = Console.ReadLine();
-                    int.TryParse(userChoice, out intres);
+                    int.TryParse(userChoice, out num);
                 }
 
-                if (intres == 1)
+                if (num == 1)
                 {
                    var horrorMovies = moviesList.Where(x => x.category == "Horror").ToList();
                     PrintMovies(horrorMovies);
                 }
-                if (intres == 2)
+                if (num == 2)
                 {
                     var horrorMovies = moviesList.Where(x => x.category == "Scifi").ToList();
                     PrintMovies(horrorMovies);
                 }
-                if (intres == 3)
+                if (num == 3)
                 {
                     var horrorMovies = moviesList.Where(x => x.category == "Drama").ToList();
                     PrintMovies(horrorMovies);
                 }
 
-                if (intres == 4)
+                if (num == 4)
                 {
                     var horrorMovies = moviesList.Where(x => x.category == "Animated").ToList();
                     PrintMovies(horrorMovies);
